@@ -1,1 +1,1 @@
-Using Sonar data, I predict the input using LogisticRegression Algorithm
+# Using Sonar data, I predict the input using LogisticRegression Algorithm
